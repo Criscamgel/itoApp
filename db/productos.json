@@ -1,0 +1,35 @@
+{
+  "productos": [
+    {
+      "id": 1,
+      "nombre": "Producto Loren Ipsum",
+      "cantidad": 50,
+      "precio": 500,
+      "imagen": "./src/assets/img/"
+    },
+    {
+      "id": "2",
+      "nombre": "Chocolate",
+      "cantidad": 10,
+      "precio": 300
+    },
+    {
+      "id": "3",
+      "nombre": "Mantequilla",
+      "cantidad": 20,
+      "precio": 350
+    },
+    {
+      "id": "4",
+      "nombre": "Desodorante",
+      "cantidad": 20,
+      "precio": 500
+    },
+    {
+      "id": "5",
+      "nombre": "Salsa de Tomate",
+      "cantidad": 20,
+      "precio": 400
+    }
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "ordenescompra": [
+    {
+      "id": 1,
+      "cliente": 123456,
+      "productos": [
+        {
+          "id": 1,
+          "cantidad": 2,
+          "precio": 1000
+        }
+      ]
+    },
+    {
+      "cliente": "cliente.id",
+      "id": 123
+    },
+    {
+      "cliente": "122143",
+      "id": 124
+    },
+    {
+      "id": 125
+    }
+  ]
+}

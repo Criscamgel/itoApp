@@ -1,0 +1,44 @@
+{
+  "clientes": [
+    {
+      "id": 123456,
+      "nombre": "Loren Ipsum",
+      "correo": "lorenipsum@gmail.com"
+    },
+    {
+      "id": 123123,
+      "nombre": "Camilo Suárez",
+      "correo": "cami@mail.com"
+    },
+    {
+      "id": 122143,
+      "nombre": "Andres Guio",
+      "correo": "andresguio@mail.com"
+    },
+    {
+      "id": 341256,
+      "nombre": "Alejandra Zapata",
+      "correo": "ale@mail.com"
+    },
+    {
+      "id": 784325,
+      "nombre": "Jorge Paez",
+      "correo": "jopaez@mail.com"
+    },
+    {
+      "id": 293523,
+      "nombre": "Daniela Bermudez",
+      "correo": "dabermudez@mail.com"
+    },
+    {
+      "id": 745376,
+      "nombre": "David Dias",
+      "correo": "dadias@mail.com"
+    },
+    {
+      "id": 908798,
+      "nombre": "Carlos Diaz",
+      "correo": "cadiaz@mail.com"
+    }
+  ]
+}
